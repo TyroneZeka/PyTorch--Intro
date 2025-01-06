@@ -1,0 +1,45 @@
+
+---
+
+### **.gitignore**
+
+```gitignore
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data
+data/
+*.csv
+*.tsv
+
+# Models
+saved_models/
+*.pt
+*.pth
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
