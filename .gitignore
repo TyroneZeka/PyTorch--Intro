@@ -24,6 +24,7 @@ env/
 
 # Data
 data/
+mlp_img/
 *.csv
 *.tsv
 
